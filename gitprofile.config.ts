@@ -25,7 +25,7 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['lucamonzon2003/PF_data_Subway', 'lucamonzon2003/Proy_siniestros_viales', 'lucamonzon2003/Wine_Classification'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: ['lucamonzon2003/Proy_final_data_subway', 'lucamonzon2003/Proy_siniestros_viales', 'lucamonzon2003/Wine_Classification'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
     external: {
