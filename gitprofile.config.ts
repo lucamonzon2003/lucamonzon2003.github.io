@@ -19,8 +19,8 @@ const CONFIG = {
         sortBy: 'updated', // Sort projects by 'stars' or 'updated'
         limit: 12, // How many projects to display.
         exclude: {
-          forks: false, // Forked projects will not be displayed if set to true.
-          projects: ['lucamonzon2003/lucamonzon2003', 'lucamonzon2003/Chat_And_StockForm'], // These projects will not be displayed. example: ['arifszn/my-project1', 'arifszn/my-project2']
+          forks: True, // Forked projects will not be displayed if set to true.
+          projects: ['lucamonzon2003/lucamonzon2003.github.io', 'lucamonzon2003/lucamonzon2003'], // These projects will not be displayed. example: ['arifszn/my-project1', 'arifszn/my-project2']
         },
       },
       manual: {
